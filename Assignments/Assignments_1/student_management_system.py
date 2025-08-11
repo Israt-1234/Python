@@ -165,6 +165,4 @@ def menu():
         else:
             print("exit")
             break
-
-if __name__ == "__main__":
-    menu()
+menu()
